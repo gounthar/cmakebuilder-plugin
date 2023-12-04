@@ -5,7 +5,8 @@
   <parent>
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>plugin</artifactId>
-    <version>3.57</version>
+    <version>4.51</version>
+    <relativePath/>
   </parent>
 
   <artifactId>cmakebuilder</artifactId>
@@ -18,8 +19,7 @@
   <properties>
     <revision>4.1.2</revision>
     <changelist>-SNAPSHOT</changelist>
-    <jenkins.version>2.150.3</jenkins.version>
-    <java.level>8</java.level>
+    <jenkins.version>2.346.3</jenkins.version>
   </properties>
 
   <licenses>
